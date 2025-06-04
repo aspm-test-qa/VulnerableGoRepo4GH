@@ -10,7 +10,6 @@ import (
 	"github.com/govwa/setup"
 	"github.com/govwa/user"
 	"github.com/govwa/util"
-	"github.com/govwa/util/config"
 	"github.com/govwa/util/middleware"
 	"github.com/govwa/vulnerability/csa"
 	"github.com/govwa/vulnerability/idor"
